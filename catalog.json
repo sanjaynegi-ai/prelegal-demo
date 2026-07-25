@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Mutual Non-Disclosure Agreement",
+    "description": "Standard mutual non-disclosure agreement (MNDA) for protecting confidential information exchanged between two parties.",
+    "filename": "Mutual-NDA.md"
+  },
+  {
+    "name": "Cloud Service Agreement",
+    "description": "Cloud Service Agreement (CSA) governing a customer's access to and use of a cloud-based product or service.",
+    "filename": "CSA.md"
+  },
+  {
+    "name": "Design Partner Agreement",
+    "description": "Design Partner Agreement granting early access to a product in exchange for feedback and participation in a design partner program.",
+    "filename": "design-partner-agreement.md"
+  },
+  {
+    "name": "Service Level Agreement",
+    "description": "Service Level Agreement (SLA) defining uptime and support response time commitments, along with service credit remedies.",
+    "filename": "sla.md"
+  },
+  {
+    "name": "Professional Services Agreement",
+    "description": "Professional Services Agreement (PSA) governing the provision of services and deliverables under one or more statements of work.",
+    "filename": "psa.md"
+  },
+  {
+    "name": "Data Processing Agreement",
+    "description": "Data Processing Agreement (DPA) governing the processing of personal data, including EEA/UK/Swiss international transfer mechanisms.",
+    "filename": "DPA.md"
+  },
+  {
+    "name": "Software License Agreement",
+    "description": "Software License Agreement governing the licensing, installation, and use of on-premises or client-side software.",
+    "filename": "Software-License-Agreement.md"
+  },
+  {
+    "name": "Partnership Agreement",
+    "description": "Partnership Agreement covering business collaboration, trademark licensing, and shared obligations between two companies.",
+    "filename": "Partnership-Agreement.md"
+  },
+  {
+    "name": "Pilot Agreement",
+    "description": "Pilot Agreement granting a customer temporary access to a product solely to evaluate it before entering a longer-term agreement.",
+    "filename": "Pilot-Agreement.md"
+  },
+  {
+    "name": "Business Associate Agreement",
+    "description": "Business Associate Agreement (BAA) governing the use and protection of Protected Health Information (PHI) under HIPAA.",
+    "filename": "BAA.md"
+  },
+  {
+    "name": "AI Addendum",
+    "description": "AI Addendum supplementing an underlying agreement to govern the use of AI/ML services, including inputs, outputs, and model training rights.",
+    "filename": "AI-Addendum.md"
+  }
+]
